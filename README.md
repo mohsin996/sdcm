@@ -1,4 +1,4 @@
-# Blue
+# SDCM
 
 A landing page template.
 
